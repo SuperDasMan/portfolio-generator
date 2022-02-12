@@ -68,7 +68,5 @@ SOFTWARE.
 
 ### Contribution
 Made with ❤️ by Josh West
-
-### 
 ©️2022 SuperDasMan Studios, LLC.
 
