@@ -37,7 +37,7 @@ Nodejs generated portfolio page
 ## Screenshot
 
   ```md
-  ![alt text](assets/images/ScreenshotPortfolioGenerator.png)
+  ![alt text]("assets/images/ScreenshotPortfolioGenerator.png")
   ```
   
 ## Deployed Application
