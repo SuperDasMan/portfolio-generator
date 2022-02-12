@@ -36,9 +36,7 @@ Nodejs generated portfolio page
 
 ## Screenshot
 
-  ```md
-  ![My Generated Portfolio]<img src="./assets/images/ScreenshotPortfolioGenerator.png" />
-  ```
+<img src="./assets/images/ScreenshotPortfolioGenerator.png" />
   
 ## Deployed Application
 
