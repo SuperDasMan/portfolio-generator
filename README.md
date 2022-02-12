@@ -7,7 +7,7 @@ Nodejs generated portfolio page
  - ` My motivation was to learn to dynamically create webpages using Nodejs
  - ` I built this project to display previous works
  - ` This solves the problem of manually creating a new webpage
- - ` I learned how to import/export functions, create promises, and use Nodejs
+ -  I learned how to import/export functions, create promises, and use Nodejs
 
 ## Table of Contents
 
